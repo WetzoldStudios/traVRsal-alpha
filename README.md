@@ -1,2 +1,10 @@
-# traVRsal-alpha
-Experimental release versions of traVRsal for early feedback
+![Discord](https://img.shields.io/discord/653315487437946880)
+![Twitter Follow](https://img.shields.io/twitter/follow/traVRsal_Robert?style=flat-square)
+
+<p align="center">
+  <img src="Images/travrsal-300.png">
+</p>
+
+# Introduction
+
+This repository hosts experimental (alpha) release versions of [traVRsal](https://github.com/WetzoldStudios/traVRsal) for early feedback.
